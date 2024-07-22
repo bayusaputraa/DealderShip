@@ -31,14 +31,14 @@ class Email extends BaseConfig
     public string $SMTPHost = 'smtp.gmail.com';
 
     /**
-     * SMTP Username
+     * SMTP Username (Isikan Username Dan Password jika ingin menggunakan Fitur recovery Password) 
      */
-    public string $SMTPUser = 'bayusaputra154@ubs.ac.id';
+    public string $SMTPUser = '';
 
     /**
      * SMTP Password
      */
-    public string $SMTPPass = 'xkkxryrfuwvmikqa';
+    public string $SMTPPass = '';
 
     /**
      * SMTP Port
