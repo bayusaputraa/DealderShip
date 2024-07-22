@@ -1,4 +1,4 @@
-# UAS WEB 2 ShowPro
+# ShowPro
 
 Proyek ini adalah implementasi dari Ujian Akhir Semester (UAS) untuk mata kuliah Web 2. Proyek ini mencakup pengembangan aplikasi web sederhana menggunakan framework CodeIgniter 4, dengan tujuan untuk menunjukkan pemahaman dan kemampuan dalam pengembangan web.
 
